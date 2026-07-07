@@ -60,8 +60,8 @@ I've built a voice-controlled robot, a DNA communication protocol, a PID line fo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyler-web&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyler-web&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyler-web&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyler-web&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -76,13 +76,13 @@ I've built a voice-controlled robot, a DNA communication protocol, a PID line fo
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=shyler-web&show_icons=true&theme=radical)
 
 ---
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyler-web&layout=compact)
 
 ---
 
