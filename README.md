@@ -52,37 +52,18 @@ Scaling biomedical signal processing pipelines, advanced RAG architectures, and 
 
 ---
 
-### ⚡ Fun fact
-I've built a voice-controlled robot, a DNA communication protocol, a PID line follower, and I'm now processing electrical signals from the human stomach — **all before most developers have finished picking their first framework.**
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shyler-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shyler-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shyler-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shyler-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyler-web&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyler-web&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyler-web&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
-
----
-
-<p align="center">
-  <i>"The most interesting problems never live inside one field."</i>
-</p>
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shyler-web&show_icons=true&theme=radical)
-
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyler-web&layout=compact)
+[![](https://komarev.com/ghpvc/?username=shyler-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -90,4 +71,3 @@ I've built a voice-controlled robot, a DNA communication protocol, a PID line fo
 > — Steve Jobs
 
 > "A jack of all trades is a master of none, but oftentimes better than a master of one."  
-> — Original proverb, full version
