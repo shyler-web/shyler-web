@@ -78,6 +78,23 @@ Custom firmware and acquisition plumbing for an ADS1299-based EGG/ECG front-end.
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=shyler-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Kanhaiya's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shyler-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shyler-web&theme=dark&hide_border=false" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyler-web&icon=0&color=4f46e5" alt="Profile views" />
+</p>
+
+---
+
 ### Toolbox
 
 `Python` · `C++` · `JavaScript` · `PyTorch` · `ROS 2` · `MuJoCo` · `ESP32` · `Linux` · `Git`
