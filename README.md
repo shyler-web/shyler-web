@@ -1,8 +1,17 @@
+<h1 align="center">Hi 👋, I'm Kanhaiya Panjiyar</h1>
+<h3 align="center">Full-spectrum technologist</h3>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Kanhaiya Panjiyar — Full-spectrum technologist" width="100%">
-  </picture>
+  <img src="https://img.shields.io/badge/Software-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Software" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2B5C8A?style=for-the-badge&logo=defense&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Biomedical-009688?style=for-the-badge&logo=health&logoColor=white" alt="Biomedical" />
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+</p>
+
+<p align="center">
+  <b>Software · AI · Robotics · Cybersecurity · Biomedical Systems · Open Source</b>
 </p>
 
 <p align="center">
@@ -12,11 +21,10 @@
   <a href="mailto:kanhaiyapanjiyar7@gmail.com">Email</a>
 </p>
 
-### Full-spectrum technologist
-
 B.Tech **AI & Data Science @ IIT Jodhpur '29**. I build across software, AI, robotics, cybersecurity and biomedical systems — usually where models, hardware and interfaces meet.
 
 **Currently building:** ScriptForge, an ADS1299 biosignal front-end, and agentic developer tools for code comprehension and review.
+Open to open-source collaborations, hackathons and GSoC work.
 
 ---
 
